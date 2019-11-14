@@ -1,2 +1,9 @@
-# Pi in the Sky
+## Pi in the Sky
 
+## Planning
+
+### Idea 
+
+### Schedule
+
+### Materials
