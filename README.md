@@ -10,14 +10,19 @@ Our basic idea is to make a drone with controlled flight. We will use four DC mo
 
 #### Materials
 
-Buy these motors? 5 for only 4 bucks, really light
-https://www.amazon.com/46500RPM-6x14mm-Coreless-Motor-Aircraft/dp/B00LUUJBBI?ref_=fsclp_pl_dp_3
+5 DC motors:
+https://www.amazon.com/gp/product/B00UYT8ONC/ref=ox_sc_act_title_2?smid=ATVPDKIKX0DER&psc=1
 
-Buy these propellers? Right shaft size and pretty cheap
-https://www.amazon.com/XiaoPengYo-Quadcopter-Drone-Propeller-Blade/dp/B0768L5515/ref=sr_1_6?keywords=.8mm+propeller&qid=1574093818&sr=8-6
+Propellers:
+https://www.amazon.com/gp/product/B0768L5515/ref=ox_sc_act_title_1?smid=A2LLMFSH95HUFH&psc=1
 
-Raspberry pi compatible controller?
+Raspberry pi compatible wireless controller?
 https://thepihut.com/products/raspberry-pi-compatible-wireless-gamepad-controller
 
 Bluetooth controller (hopefully Pi compatible? And I can use it when we're done)
 https://www.amazon.com/Controller-Mutop-Wireless-Bluetooth-Joystick/dp/B07SWYQSP5/ref=sr_1_10?keywords=bluetooth+controller&qid=1574094324&sr=8-10
+
+Plus a Bluetooth dongle (100 m range):
+https://www.amazon.com/gp/product/B017XML51A/ref=ox_sc_act_title_1?smid=A1RTIMDUPCBOKN&psc=1
+
+Total price: $42.43
