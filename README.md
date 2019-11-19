@@ -25,4 +25,4 @@ https://www.amazon.com/Controller-Mutop-Wireless-Bluetooth-Joystick/dp/B07SWYQSP
 Plus a Bluetooth dongle (100 m range):
 https://www.amazon.com/gp/product/B017XML51A/ref=ox_sc_act_title_1?smid=A1RTIMDUPCBOKN&psc=1
 
-Total price: $42.43
+Total price (with bluetooth controller and dongle option): $42.43
