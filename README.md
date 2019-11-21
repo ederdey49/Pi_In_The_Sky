@@ -2,6 +2,10 @@
 
 ### Planning
 
+#### Objective
+
+The goal for this project is to get a raspberry pi zero into the air, while recording acceleration data. Also, the pi should make a sound at the apex of its flight. 
+
 #### Idea 
 
 Our basic idea is to make a drone with controlled flight. We will use four DC motors with propellers to control height, like a standard drone, but we will control the drone's horizontal movement with a fifth motor and propeller. We will use a wireless gamepad to increase and decrease the drone's altitude, rotate the directional motor, and change the speed of the directional motor.
