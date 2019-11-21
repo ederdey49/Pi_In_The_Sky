@@ -14,7 +14,7 @@ Our basic idea is to make a drone with controlled flight. We will use four DC mo
 https://www.amazon.com/gp/product/B00UYT8ONC/ref=ox_sc_act_title_2?smid=ATVPDKIKX0DER&psc=1
 
 Propellers:
-https://www.amazon.com/gp/product/B0768L5515/ref=ox_sc_act_title_1?smid=A2LLMFSH95HUFH&psc=1
+https://www.amazon.com/gp/product/B0768L5515?pf_rd_p=183f5289-9dc0-416f-942e-e8f213ef368b&pf_rd_r=SZ0132SDET232PBDBQTQ
 
 Raspberry pi compatible wireless controller?
 https://thepihut.com/products/raspberry-pi-compatible-wireless-gamepad-controller
