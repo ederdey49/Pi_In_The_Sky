@@ -12,6 +12,11 @@ Our basic idea is to make a drone with controlled flight. We will use four DC mo
 
 #### Schedule
 
+| Week  | Plan |
+| ------------- | ------------- |
+| oooooooooooooooooooooooooooo  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 #### Materials
 
 5 DC motors:
@@ -28,4 +33,6 @@ https://www.amazon.com/gp/product/B017XML51A/ref=ox_sc_act_title_1?smid=A1RTIMDU
 
 Laser-cutter acrylic
 
-Total price (with bluetooth controller and dongle option): $42.43
+Total price: $42.43
+
+
