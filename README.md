@@ -14,8 +14,17 @@ Our basic idea is to make a drone with controlled flight. We will use four DC mo
 
 | Week  | Plan |
 | ------------- | ------------- |
-| oooooooooooooooooooooooooooo  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Nov. 18th | Finish proposal and submit for approval|
+| Nov. 25th  | Begin working on CAD design for the drone, order parts |
+| Dec. 2nd | Continue working on CAD design, begin code/pseudocode |
+| Dec. 9th | Wireless controller work, CAD design |
+| Jan. 6th | Code work, CAD design |
+| Jan. 13th | Cut drone frame, work on code |
+| Jan. 20th | Finish code, do preliminary testing |
+| Jan. 27th | Testing, troubleshooting |
+| Feb. 3rd | Troubleshooting |
+| Feb. 10th | Finish |
+
 
 #### Materials
 
