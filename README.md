@@ -14,17 +14,16 @@ Our basic idea is to make a drone with controlled flight. We will use four DC mo
 
 | Week  | Plan |
 | ------------- | ------------- |
-| Nov. 18th | Finish proposal and submit for approval|
-| Nov. 25th  | Begin working on CAD design for the drone, order parts |
-| Dec. 2nd | Continue working on CAD design, begin code/pseudocode |
+| Nov. 25th  | Finish proposal, submit, order parts?? |
+| Dec. 2nd | Start working on CAD design, begin code/pseudocode |
 | Dec. 9th | Wireless controller work, CAD design |
 | Jan. 6th | Code work, CAD design |
 | Jan. 13th | Cut drone frame, work on code |
-| Jan. 20th | Finish code, do preliminary testing |
-| Jan. 27th | Testing, troubleshooting |
-| Feb. 3rd | Troubleshooting |
-| Feb. 10th | Finish |
-
+| Jan. 20th | Work on code |
+| Jan. 27th | Finish code, test |
+| Feb. 3rd | Test, troubleshooting |
+| Feb. 10th | Troubleshooting |
+| Feb. 17th | Finish |
 
 #### Materials
 
@@ -43,5 +42,7 @@ https://www.amazon.com/gp/product/B017XML51A/ref=ox_sc_act_title_1?smid=A1RTIMDU
 Laser-cutter acrylic
 
 Total price: $42.43
+
+#### Sketches/plans
 
 
