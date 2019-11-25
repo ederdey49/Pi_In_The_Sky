@@ -45,5 +45,7 @@ Total price: $42.43
 
 #### Sketches/plans
 
+We don't know why this is upside down- the actual photo isn't and I think if you click on it it's not upside down
+
 ![Image](https://user-images.githubusercontent.com/54591964/69558690-a65ea700-0f76-11ea-8940-c00c1edf29f5.jpg)
 
