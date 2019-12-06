@@ -51,3 +51,20 @@ We don't know why this is upside down- the actual photo isn't and if you click o
 
 ![Image](https://user-images.githubusercontent.com/54591964/69558690-a65ea700-0f76-11ea-8940-c00c1edf29f5.jpg)
 
+### Project
+
+#### Timeline
+| Week  | Plan |
+| ------------- | ------------- |
+| Nov. 25th  | Finished and submitted our project proposal|
+| Dec. 2nd | Ordered our parts, began CAD, parts arrive Monday. Made a mistake when ordering parts, need to test motors and probably need to return them in favor of bigger/more powerful ones. |
+| Dec. 9th | |
+| Jan. 6th | |
+| Jan. 13th | |
+| Jan. 20th | |
+| Jan. 27th | |
+| Feb. 3rd |  |
+| Feb. 10th | |
+| Feb. 17th | |
+| Feb. 24 | |
+| Mar. 2 | |
