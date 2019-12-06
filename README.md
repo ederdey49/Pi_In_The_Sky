@@ -25,7 +25,8 @@ Our basic idea is to make a drone with controlled flight. We will use four DC mo
 | Feb. 10th | Finish code, test |
 | Feb. 17th | Test, troubleshooting |
 | Feb. 24 | Troubleshooting |
-| Mar. 2 | Finish |
+| Mar. 2 | Scheduled sad boi hours |
+| Mar. 9 | Finish |
 
 #### Materials
 
