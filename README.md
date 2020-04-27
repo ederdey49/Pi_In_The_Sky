@@ -17,7 +17,6 @@ Our basic idea is to make a drone with controlled flight. We will use four DC mo
 | Nov. 25th  | Finish proposal, submit, order parts?? |
 | Dec. 2nd | Start working on CAD design, begin code/pseudocode |
 | Dec. 9th | Wireless controller work, CAD design |
-| Dec. 16th | ??? |
 | Jan. 6th | Keep working on wireless controller and CAD design |
 | Jan. 13th | Work on code and CAD design |
 | Jan. 20th | Code work, CAD design |
@@ -61,7 +60,6 @@ We don't know why this is upside down- the actual photo isn't and if you click o
 | Nov. 25th  | Finished and submitted our project proposal |
 | Dec. 2nd | Ordered our parts, began CAD, parts arrive Monday. Made a mistake when ordering parts, need to test motors and probably need to return them in favor of bigger/more powerful ones. |
 | Dec. 9th | Worked on SolidWorks model. Parts and controller arrived. Found that, despite part specifications to the contrary, the propellers did not fit on the motors. Looked for new motors and propellers. |
-| Dec. 16th | ??? |
 | Jan. 6th | Redesigned SolidWorks model to fit the new motors while waiting for motors and propellers to arrive. |
 | Jan. 13th | Continued work on SolidWorks model. Motors and propellers arrived, so we ran a test: see if they could simply lift their own weight when connected to a battery. Test failed, fingers bruised by very fast propellers. |
 | Jan. 20th | Having already wasted a lot of money on our project, we decided to pivot to focusing on communication between the controller and the Raspberry Pi. We scoured the internet for information regarding Python Bluetooth libraries. |
