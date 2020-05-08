@@ -82,6 +82,8 @@ https://www.amazon.com/NIDICI-Propellers-1103-1106-Brushless-Quadcopter/dp/B07TB
 
 #### Everything Is Terrible
 We had nothing but problems in working on this project. After our first order, indicated above in Planning/Materials, we realized that the shafts of our motors were too small for the propellers (even though the specifications indicated they should fit). We were also concerned that these motors, which we had chosen for their lightness, would be unable to produce enough thrust, so we bought new, larger motors and propellers. Additionally, after a couple months, our controller simply refused to turn on. We bought a new controller, which happened to just not be compatible with Raspberry Pi.
+
 We tested our second motor-propeller combination, which was unable to produce thrust to lift itself, so we found new motors and propellers that were much more powerful than the originals but still very light. However, before the parts arrived to the Sigma Lab, school was cancelled due to the coronavirus pandemic, leaving our project—and our parts—in a state of permanent limbo.
 We learned that buying things from Amazon is risky, because a lot of documentation from sellers is poor, and sometimes things are just badly made. We definitely learned the importance of reading user reviews.
+
 The code we included should be taken with a massive grain of salt. It's the best we can do with the stage our project was left at, but it's only a rough outline with a lot of blanks that need to be filled in.
